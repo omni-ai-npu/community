@@ -1,6 +1,6 @@
 # Omni-AI Enhancement Proposals (OEPs)
 
-A Omni-AI Enhancement Proposal (OEP) is a way to propose, communicate and coordinate on new efforts for the MindSpore project. The OEP guidelines adopted here is heavily
+A Omni-AI Enhancement Proposal (OEP) is a way to propose, communicate and coordinate on new efforts for the Omni-AI community project. The OEP guidelines adopted here is heavily
 influenced by the [Kubernetes Enhancement Proposals](https://github.com/kubernetes/enhancements/blob/master/keps/README.md) (KEPs) designed by Kubernetes community.
 
 **NOTICE:** *For similar structures some of the same wordings from KEPs are borrowed to adhere to the originally construed meaning.*
