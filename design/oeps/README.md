@@ -31,7 +31,7 @@ process. It should be light-weight enough that MEPs are the default position.
 
 ### Why would I want to use the OEP process?
 
-Our aim with OEPs is to clearly communicate new efforts to the MindSpore contributor community.
+Our aim with OEPs is to clearly communicate new efforts to the Omni-AI contributor community.
 As such, we want to build a well curated set of clear proposals in a common format with useful metadata.
 
 Benefits to OEP users (in the limit):
