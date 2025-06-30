@@ -7,8 +7,8 @@ SIG的全称是Special Interest Groups，即“特别兴趣小组”。Omni-AI�
 | SIG name                                                     | 技术领域                      | SIG Committer 团队                                                                                                         | 
 |:-------------------------------------------------------------|:--------------------------|:----------------------------------------------------------------------------------------------------------------|
 | [Placement]()                          | Omni-Infer专家负载均衡 | [Ken](https://gitee.com/kkrazy),[Zhou Li](https://gitee.com/lzhou-xyz)                                             |
-| [Scheduling]()                             | global proxy               | [tbd](https://gitee.com/)                                                                   |
-| [Attention]()                             | Omni-Attention加速极致        | [Ryan Blue](https://gitee.com/ryan_lan)                                                                      |
+| [Scheduling]()                             | global proxy               | [Lu Min](https://gitee.com/lumin17)                                                                   |
+| [Attention]()                             | Omni-Attention加速极致        | [Ryan Blue](https://gitee.com/ryan_lan),[Mao Runze](https://gitee.com/immrz)                                                                       |
 | [MTP]()                               | 投机推理加速技术           | [Zhang weixi](https://gitee.com/zhangweixi)                                                                         |
 | [Quant]()                               | 量化技术           | [Ning Guoqiang](https://gitee.com/kevinning) ,[Yao Xin](https://gitee.com/xinyao1994)                                                                              |
 | [Ops and Graph]()                               | 算子与图相关特性          | [Ning Guoqiang](https://gitee.com/kevinning), [Yu Shikang](https://gitee.com/yskhhh)                                                                        |
