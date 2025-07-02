@@ -17,3 +17,24 @@ SIG的全称是Special Interest Groups，即“特别兴趣小组”。Omni-AI�
 | [Ops and Graph]()                               | 算子与图相关特性          | [Ning Guoqiang](https://gitee.com/kevinning), [Yu Shikang](https://gitee.com/yskhhh), Fan Yuwei, Liu Jie, Li Peiyang, Zhu Jingjing                                                                        |
 | [Test and tooling]()                     | 测试与工具相关             | [He Jian](https://gitee.com/jeanhero), Gong Yangxue                                                         |
 | [Release Management]()                                   | 版本管理                    | Li Guangying, Ye Musen                                                                |
+
+## SIG组织管理
+
+### 成员身份说明
+
+SIG的成员身份包括Contributors、Committers、Maintainers，各角色的描述和申请条件如下：
+
+#### Contributors(参与SIG相关工作并提交过代码的开发者）
+
+* 权益：参与SIG的各项活动与交流
+* 申请条件：完成PR合入或PMC/SIG确认的重大RFC类型ISSUE单提交
+
+#### Committers(SIG核心管理团队）
+
+* 职责：牵头负责技术开发，并参与日常运营、宣传推广、活动组织等SIG运作相关工作
+* 申请条件：待制定
+
+#### Maintainers(Committer团队中对SIG运作负责的SIG Lead）
+
+* 职责：牵头负责SIG的总体规划与策略制定，牵头SIG的日常运营、宣传推广、活动组织等SIG运作相关工作
+* 申请条件：待制定
