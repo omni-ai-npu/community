@@ -15,7 +15,7 @@ SIG的全称是Special Interest Groups，即“特别兴趣小组”。Omni-AI�
 | [MTP]()                               | 投机推理加速技术           | [Han Wei](https://gitee.com/harveythu), [Zhang weixi](https://gitee.com/zhangweixi), He Bin, Lin Qingyang                                                                         |
 | [Quant]()                               | 量化技术           | [Ning Guoqiang](https://gitee.com/kevinning) ,[Yao Xin](https://gitee.com/xinyao1994), Yang Qianyu, Song Jing, Chitu Team Member                                                                              |
 | [Ops and Graph]()                               | 算子与图相关特性          | [Ning Guoqiang](https://gitee.com/kevinning), [Yu Shikang](https://gitee.com/yskhhh), Fan Yuwei, Liu Jie, Li Peiyang, Zhu Jingjing                                                                        |
-| [Test and tooling]()                     | 测试与工具相关             | [He Jian](https://gitee.com/jeanhero), Gong Yangxue                                                         |
+| [Test and tooling]()                     | 测试与工具相关             | [He Jian](https://gitee.com/jeanhero), [Gong Yangxue](https://gitee.com/sunnysnowhi)                                                         |
 | [Release Management]()                                   | 版本管理                    | Li Guangying, Ye Musen                                                                |
 
 ## SIG组织管理
