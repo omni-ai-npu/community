@@ -4,19 +4,20 @@ SIG的全称是Special Interest Groups，即“特别兴趣小组”。Omni-AI�
 
 ## 目前的SIG组
 
-| SIG name                                                     | 技术领域                      | SIG Committer 团队                                                                                                         | 
-|:-------------------------------------------------------------|:--------------------------|:----------------------------------------------------------------------------------------------------------------|
-| [Pangu]()                          | Omni-Infer盘古模型加速 | Li Xiaosong                                          |
-| [Cache Optimization]()                          | Omni-Infer缓存优化 | Song Mingyang, Chen Yiping, Luo Guoxian, Mooncake team member                                             |
-| [PD Separation]()                                       | PD分离技术技术                 | [Ryan Blue](https://gitee.com/ryan_lan),[Jiang Yaoguo](https://gitee.com/jiangyaoguo),[Yao Yunxiang](https://gitee.com/yyaoaj), Dong Guyin, Tong Shaojun, Wang Rui, Wu Hang                                                 |
-| [EP Placement]()                          | Omni-Infer专家负载均衡 | [Ken](https://gitee.com/kkrazy), Yang Zengyin, [Cai Congzhi](https://gitee.com/caicongzhi), Xutianliang                                           |
-| [Scheduling SDK]()                             | global proxy               | [Sun Jie](https://gitee.com/riosun), Zhang Qintao,[Zhou Li](https://gitee.com/lzhou-xyz), Wang Jun                                                                    |
-| [Attention]()                             | Omni-Attention加速极致        | [Ryan Blue](https://gitee.com/ryan_lan),[Mao Runze](https://gitee.com/immrz),[Lu Min](https://gitee.com/lumin17)                                                                       |
-| [MTP]()                               | 投机推理加速技术           | [Han Wei](https://gitee.com/harveythu), [Zhang weixi](https://gitee.com/zhangweixi), He Bin, Lin Qingyang                                                                         |
-| [Quant]()                               | 量化技术           | [Ning Guoqiang](https://gitee.com/kevinning) ,[Yao Xin](https://gitee.com/xinyao1994), Yang Qianyu, Song Jing, Chitu Team Member                                                                              |
-| [Ops and Graph]()                               | 算子与图相关特性          | [Ning Guoqiang](https://gitee.com/kevinning), [Yu Shikang](https://gitee.com/yskhhh), Fan Yuwei, Liu Jie, Li Peiyang, Zhu Jingjing                                                                        |
-| [Test and tooling]()                     | 测试与工具相关             | [He Jian](https://gitee.com/jeanhero), [Gong Yangxue](https://gitee.com/sunnysnowhi)                                                         |
-| [Release Management]()                                   | 版本管理                    | Li Guangying, Ye Musen                                                                |
+
+| SIG name                              | 技术领域               | SIG Committer 团队                                                                                                                                                             |
+| :------------------------------------ | :--------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Pangu]()                             | Omni-Infer盘古模型加速 | Li Xiaosong                                                                                                                                                                    |
+| [Cache Optimization]()                | Omni-Infer缓存优化     | Song Mingyang, Chen Yiping, Luo Guoxian, Mooncake team member                                                                                                                  |
+| [PD Separation](sig-pd-seperation.md) | PD分离技术技术         | [Lan Longwen](https://gitee.com/ryan_lan),[Jiang Yaoguo](https://gitee.com/jiangyaoguo),[Yao Yunxiang](https://gitee.com/yyaoaj), Dong Guyin, Tong Shaojun, Wang Rui, Wu Hang |
+| [EP Placement]()                      | Omni-Infer专家负载均衡 | [Ken](https://gitee.com/kkrazy), Yang Zengyin, [Cai Congzhi](https://gitee.com/caicongzhi), Xutianliang                                                                        |
+| [Scheduling SDK]()                    | global proxy           | [Sun Jie](https://gitee.com/riosun), Zhang Qintao,[Zhou Li](https://gitee.com/lzhou-xyz), Wang Jun                                                                             |
+| [Attention](sig-attention.sig)        | Omni-Attention加速极致 | [Lan Longwen](https://gitee.com/ryan_lan),[Mao Runze](https://gitee.com/immrz),[Lu Min](https://gitee.com/lumin17)                                                             |
+| [MTP]()                               | 投机推理加速技术       | [Han Wei](https://gitee.com/harveythu), [Zhang weixi](https://gitee.com/zhangweixi), He Bin, Lin Qingyang                                                                      |
+| [Quant]()                             | 量化技术               | [Ning Guoqiang](https://gitee.com/kevinning) ,[Yao Xin](https://gitee.com/xinyao1994), Yang Qianyu, Song Jing, Chitu Team Member                                               |
+| [Ops and Graph]()                     | 算子与图相关特性       | [Ning Guoqiang](https://gitee.com/kevinning), [Yu Shikang](https://gitee.com/yskhhh), Fan Yuwei, Liu Jie, Li Peiyang, Zhu Jingjing                                             |
+| [Test and tooling]()                  | 测试与工具相关         | [He Jian](https://gitee.com/jeanhero), [Gong Yangxue](https://gitee.com/sunnysnowhi)                                                                                           |
+| [Release Management]()                | 版本管理               | Li Guangying, Ye Musen                                                                                                                                                         |
 
 ## SIG组织管理
 

@@ -4,8 +4,8 @@
 
 ## Maintainers
 
-* Ryan Blue 
-* Dong Guyin 
+* Lan Longwen
+* Dong Guyin
 * Tong Shaojun
 
 ## Committers
@@ -15,7 +15,6 @@
 * Wang Rui
 * Wu Hang
 
-
 ## [SIG例会](meetings/sig-pd-seperation/)
 
 可参考社区共同的[例会要求](meetings/sig-meetings-requirement.md)
@@ -23,6 +22,7 @@
 ### SIG例会2025年07月第一次
 
 #### 会议信息
+
 Zhipeng 邀请您参加腾讯会议
 会议主题：Omni-Infer社区PD分离SIG例会
 会议时间：2025/07/08 19:00-19:30 (GMT+08:00) 中国标准时间 - 北京
@@ -33,8 +33,8 @@ https://meeting.tencent.com/dm/GYYp7PRovlp8
 腾讯会议：906-4955-7380
 
 #### 会议议程
+
 0. Omni-Infer社区开放策略介绍，RoadMap介绍 -- Ken
 1. 当前PD分离架构介绍及当前系统性能瓶颈分析，及优化需求讨论 -- Ken， Tong Shaojun
 2. 7月份特性开发计划介绍 -- Ryan Blue
 3. 其他事项
-
