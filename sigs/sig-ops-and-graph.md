@@ -2,21 +2,21 @@
 
 本SIG专注于大模型推理技术中的算子与图相关的特性开发。
 
-## Maintainers
+### Maintainers
 
 * Fan Yuwei
 * Ning Guoqiang
 * Liu Jie
 * Li Peiyang
 
-## Committers
+### Committers
 
 * Yu Shikang
 * Zhu Jingjing
 
-## 2025年目标
+### 社交群组
 
-1. TBD
+![image](figures/sig-ops-graph-wechat.jpg)
 
 ## [SIG例会](meetings/sig-pd-ops-and-graph.md/)
 
