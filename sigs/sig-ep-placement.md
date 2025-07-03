@@ -9,16 +9,19 @@
 **项目成果**：目前，我们的项目已经取得了一定的成果。通过优化专家负载均衡算法，我们成功地将模型的推理速度提高了10%以上。
 未来计划：在未来，我们将继续深入研究MoE专家负载均衡技术，探索更多的优化方法和应用场景。我们还计划将我们的研究成果应用到更多的项目中，为人工智能的发展做出更大的贡献。
 
-## Maintainers
+### Maintainers
 
 * Ken Zhang 
 * Yang Zengyin 
 
-## Committers
+### Committers
 
 * Cai Chongzhi
 * Xu Tianliang
 
+### 社交群组
+
+![image](figures/sig-ep-placement-wechat.jpg)
 
 ## [SIG例会](meetings/sig-ep-placement/)
 
