@@ -2,18 +2,22 @@
 
 本SIG专注于大模型推理技术中的 PD 分离技术领域。在深度学习和大模型推理的背景下，PD 分离，即 Prefill-Decode Disaggregation，作为近年来大模型推理领域的关键突破，正重塑着推理效率与资源利用的格局，如何高效地调度计算资源成为了提升推理性能的关键因素。为了解决这一挑战，Omni Infer开源项目实现了针对昇腾硬件的亲和性PD调度能力。该调度策略以P（推理实例）和D（数据实例）为核心，利用VLLM作为推理实例进行高效的分布式模型推理。
 
-## Maintainers
+### Maintainers
 
 * Lan Longwen
 * Dong Guyin
 * Tong Shaojun
 
-## Committers
+### Committers
 
 * Jiang Yaoguo
 * Yao Yunxiang
 * Wang Rui
 * Wu Hang
+
+### 社交群组
+
+![image](figures/sig-pd-sep-wechat.jpg)
 
 ## [SIG例会](meetings/sig-pd-seperation/)
 
