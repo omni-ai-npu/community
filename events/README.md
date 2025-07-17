@@ -8,5 +8,8 @@
 ## 社区Meetup
 
 我们计划在7月28号下午举办一次社区Meetup，欢迎大家报名参加。地点在徐汇区的模速空间。
+
+[活动行报名链接](https://hdxu.cn/1ksqr) ！
+
 ![image](figures/Omni-Infer社区Meetup20250728.png)
 ![image](figures/728Meetup.png)
