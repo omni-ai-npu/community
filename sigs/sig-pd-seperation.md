@@ -56,5 +56,5 @@ https://meeting.tencent.com/dm/GYYp7PRovlp8
 
 #### 会议议程
 
-0. PD联合调度优化分享 -- Wang Jun
+0. [PD联合调度优化分享](https://gitee.com/omniai/omniinfer/issues/ICO1VS?from=project-issue) -- Wang Jun
 1. 其他事项
