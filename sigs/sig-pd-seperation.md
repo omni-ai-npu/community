@@ -31,9 +31,8 @@
 
 可参考社区共同的[例会要求](meetings/sig-meetings-requirement.md)
 
-### SIG例会2025年07月第一次
 
-#### 会议信息
+### 会议信息
 
 Zhipeng 邀请您参加腾讯会议
 会议主题：Omni-Infer社区PD分离SIG例会
@@ -44,9 +43,18 @@ Zhipeng 邀请您参加腾讯会议
 https://meeting.tencent.com/dm/GYYp7PRovlp8
 腾讯会议：906-4955-7380
 
+### SIG例会2025年07月8日
+
 #### 会议议程
 
 0. Omni-Infer社区开放策略介绍，RoadMap介绍 -- Ken
 1. 当前PD分离架构介绍及当前系统性能瓶颈分析，及优化需求讨论 -- Ken， Tong Shaojun
 2. 7月份特性开发计划介绍 -- Ryan Blue
 3. 其他事项
+
+### SIG例会2025年07月22日
+
+#### 会议议程
+
+0. PD联合调度优化分享 -- Wang Jun
+1. 其他事项
