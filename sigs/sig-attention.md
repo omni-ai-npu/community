@@ -33,4 +33,4 @@
 
 
 ### 微信交流群
-![输入图片说明](../IMG_6632.jpg)
+![输入图片说明](figures/attention-sig.jpg)
