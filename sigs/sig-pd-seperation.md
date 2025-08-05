@@ -27,9 +27,11 @@
 
 ![image](figures/sig-pd-sep-wechat.jpg)
 
-## [SIG例会](meetings/sig-pd-seperation/)
-
+### 例会要求
 可参考社区共同的[例会要求](meetings/sig-meetings-requirement.md)
+
+### 例会纪要
+每次例会纪要与录屏均可在[归档文件夹](meetings/sig-pd-seperation)查看
 
 
 ### 会议信息
