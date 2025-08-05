@@ -13,16 +13,23 @@
 
 ## [SIG例会](meetings/sig-pd-seperation/)
 
+### 例会要求
 可参考社区共同的[例会要求](meetings/sig-meetings-requirement.md)
+### 例会纪要
+每次例会纪要与录屏均可在[归档文件夹](meetings/sig-attention)查看
 
 例会信息：
 
-* 会议主题：Omni-Infer社区Attention SIG例会 
-* 会议时间：2025/07/24 19:00-19:30 (GMT+08:00) 中国标准时间 - 北京 
-* 重复周期：2025/07/24-2025/09/30 19:00-19:30, 每两周 (周四)
+会议主题：Omni-Infer社区SIG-Attention例会
+会议时间：2025/08/13 19:30-20:30 (GMT+08:00) 中国标准时间 - 北京
+重复周期：2025/08/13-2025/10/08 19:30-20:30, 每两周 (周三)
 
-点击链接入会，或添加至会议列表： https://meeting.tencent.com/dm/JN7fjLvlLoib 
-* 腾讯会议：893-7292-7203
+点击链接入会，或添加至会议列表：
+https://meeting.tencent.com/dm/JN7fjLvlLoib
+
+#腾讯会议：893-7292-7203
+
+复制该信息，打开手机腾讯会议即可参与
 
 ### 第一次会议议程
 
