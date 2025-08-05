@@ -17,9 +17,11 @@
 
 ![image](figures/sig-mtp-wechat.jpg)
 
-## [SIG例会](meetings/sig-mtp/)
-
+### 例会要求
 可参考社区共同的[例会要求](meetings/sig-meetings-requirement.md)
+
+### 例会纪要
+每次例会纪要与录屏均可在[归档文件夹](meetings/sig-mtp)查看
 
 ### SIG例会2025年07月第一次
 
