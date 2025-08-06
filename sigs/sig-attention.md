@@ -36,6 +36,7 @@ https://meeting.tencent.com/dm/JN7fjLvlLoib
 * Attention SIG 介绍 -- Lan Longwen
 * Omni Attention技术分析 -- 毛润泽
 * Chunked Attention支持计划讨论 -- 毛润泽
+* 会议材料：https://gitee.com/omniai/omniinfer/issues/ICOMQP
 * 其他事项
 
 
