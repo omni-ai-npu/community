@@ -11,7 +11,7 @@
 
 ## 业界会议参与
 
-- [GOSIM中国峰会](https://hangzhou2025.gosim.org/)
+- [GOSIM中国峰会](https://hangzhou2025.gosim.org/)：2025年9月13-14日
 - [CCF开源大会](https://mp.weixin.qq.com/s/oodENT3IDfK483OhgOu7kg)：2025年8月2-3日
 - [OpenInfra苏州Meetup](https://mp.weixin.qq.com/s/oPffGb_DK7uK40AW8s0_jA)：2025年7月5日
 
