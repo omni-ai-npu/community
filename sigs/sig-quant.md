@@ -30,7 +30,7 @@
 
 可参考社区共同的[例会要求](meetings/sig-meetings-requirement.md)
 
-### SIG例会常规例会信息
+### SIG-quant常规例会信息
 
 #### 会议信息
 主题: Omni-Infer社区Quant-SIG例会
@@ -47,7 +47,7 @@ https://meeting.tencent.com/dm/OOLzZQA19S8P
 2. 8月份特性开发计划介绍
 3. 其他事项
 
-### SIG第一次线下例会
+### SIG-quant第一次线下学术交流会
 
 #### 会议信息
 
