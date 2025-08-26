@@ -21,9 +21,11 @@ Scheduling-SIG专注于通过调度算法创新实现请求级负载均衡，属
 ![image](figures/sig-sche-wechat.jpg)
 
 
-## [SIG例会](meetings/sig-sche/)
-
+### 例会要求
 可参考社区共同的[例会要求](meetings/sig-meetings-requirement.md)
+
+### 例会纪要
+每次例会纪要与录屏均可在[归档文件夹](meetings/sig-scheduling-sdk)查看
 
 ### SIG例会2025年07月第一次
 
