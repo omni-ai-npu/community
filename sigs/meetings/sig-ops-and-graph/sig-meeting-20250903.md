@@ -19,3 +19,7 @@
 ## 待办
 **1. Flash Attention（AMLA）社区版情况确认**
 - 由于提问中提及线上同学需要注意后文是否包含此功能，需由@@(谭志强)@@跟进确认该算法是否已随开源的MA算子一同发布。
+
+## 会议录屏
+
+https://www.bilibili.com/video/BV1hLazztEeK/ 
