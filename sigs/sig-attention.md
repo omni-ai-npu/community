@@ -39,6 +39,11 @@ https://meeting.tencent.com/dm/JN7fjLvlLoib
 * 会议材料：https://gitee.com/omniai/omniinfer/issues/ICOMQP
 * 其他事项
 
+### 第二次会议议程
+
+* 时间 -- 2025/08/27晚上7:30
+* Chunk Prefill/APC 相关最新算子支持介绍 -- 毛润泽
+* 会议材料：https://gitee.com/omniai/omniinfer/issues/ICV47E
 
 ### 微信交流群
 ![输入图片说明](figures/attention-sig.jpg)
