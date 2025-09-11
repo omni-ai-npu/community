@@ -30,14 +30,12 @@
 
 可参考社区共同的[例会要求](meetings/sig-meetings-requirement.md)
 
-### SIG例会2025年08月第一次
+### SIG-quant常规例会信息
 
 #### 会议信息
 主题: Omni-Infer社区Quant-SIG例会
 
 会议时间：2025/08/01 15:00-16:00 (GMT+08:00) 中国标准时间 - 北京
-
-重复周期：2025/08/01-2025/10/24 15:00-16:00, 每2周 (周五)
 
 点击链接入会，或添加至会议列表：
 https://meeting.tencent.com/dm/OOLzZQA19S8P
@@ -48,3 +46,11 @@ https://meeting.tencent.com/dm/OOLzZQA19S8P
 1. 当前Quant架构介绍及当前系统及算子性能瓶颈分析，及优化需求讨论
 2. 8月份特性开发计划介绍
 3. 其他事项
+
+### SIG-quant第一次线下学术交流会
+
+#### 会议信息
+
+![image](figures/sig-quant-meetup1.png)
+
+欢迎大家现场讨论交流！
