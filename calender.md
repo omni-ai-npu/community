@@ -33,7 +33,7 @@
 ### 2025年10月
 |Mon|Tue|Wed|Thu|Fri|Sat|Sun|
 | :---------------------- | :--------------------- | :---------------------- | :---------------------- | :--------------------- | :---------------------- | :---------------------- |
-|||1| 2 [SIG EP Placement](sigs/sig-ep-placement.md) |3|4|5|
+|||1| 2 |3|4|5|
 | 6    | 7    | 8  [SIG Attention](sigs/sig-attention.md) | 9 [SIG MTP](sigs/sig-mtp.md) | 10   | 11   | 12   |
 | 13   | 14 [SIG PD-Seperation](sigs/sig-pd-seperation.md) | 15 [SIG Ops and Graph](sigs/sig-ops-and-graph.md) | 16 | 17   | 18   | 19   |
 | 20   | 21 [SIG Scheduling SDK](sigs/sig-scheduling-sdk.md) | 22   | 23   | 24 [SIG Quant](sigs/sig-quant.md) | 25   | 26   |
@@ -48,4 +48,3 @@
 | 10   | 11 [SIG PD-Seperation](sigs/sig-pd-seperation.md)    | 12 [SIG Ops and Graph](sigs/sig-ops-and-graph.md) | 13 [SIG MTP](sigs/sig-mtp.md)                   | 14                                | 15   | 16   |
 | 17   | 18  [SIG Scheduling SDK](sigs/sig-scheduling-sdk.md) | 19                                                | 20                                              | 21 [SIG Quant](sigs/sig-quant.md) | 22   | 23   |
 | 24   | 25                                                   | 26                                                | 27 [SIG EP Placement](sigs/sig-ep-placement.md) | 28                                |29|30|
-
