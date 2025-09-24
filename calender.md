@@ -45,6 +45,6 @@
 | :---------------------- | :--------------------- | :---------------------- | :---------------------- | :--------------------- | :---------------------- | :---------------------- |
 ||||     ||1|2|
 | 3    | 4                                                    | 5  [SIG Attention](sigs/sig-attention.md)         | 6 [SIG MTP](sigs/sig-mtp.md)                    | 7                                 | 8    | 9    |
-| 10   | 11 [SIG PD-Seperation](sigs/sig-pd-seperation.md)    | 12 [SIG Ops and Graph](sigs/sig-ops-and-graph.md) | 13 [SIG MTP](sigs/sig-mtp.md)                   | 14                                | 15   | 16   |
+| 10   | 11 [SIG PD-Seperation](sigs/sig-pd-seperation.md)    | 12 [SIG Ops and Graph](sigs/sig-ops-and-graph.md) | 13                   | 14                                | 15   | 16   |
 | 17   | 18  [SIG Scheduling SDK](sigs/sig-scheduling-sdk.md) | 19                                                | 20                                              | 21 [SIG Quant](sigs/sig-quant.md) | 22   | 23   |
 | 24   | 25                                                   | 26                                                | 27 [SIG EP Placement](sigs/sig-ep-placement.md) | 28                                |29|30|
